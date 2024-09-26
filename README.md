@@ -2,7 +2,7 @@
 <h3 align="center">I'm Front-End Developer from Varna, Bulgaria</h3>
 <br/>
 
-<h3 align="center"><img align="center" alt="coding" width="600" src="https://assets.toptal.io/images?url=https%3A%2F%2Fbs-uploads.toptal.io%2Fblackfish-uploads%2Fcomponents%2Fblog_post_page%2F4087459%2Fcover_image%2Fretina_500x200%2Fop-Ten-Front-End-Design-Rules-For-Developers_Luke-Newsletter-d1a2c4688c9f2b898d15b60c8a3fca52.png" /></h3>
+<h3 align="center"><img align="center" alt="coding" width="600" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif" /></h3>
 
 <br/>
 
